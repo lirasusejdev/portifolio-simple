@@ -1,0 +1,10 @@
+# Pasta do VSCode
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências comuns
+node_modules/
+__pycache__/
